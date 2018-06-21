@@ -1,19 +1,19 @@
 
-# Linux-Server-438
+# Linux-Server-configuration
 ### About
   This Project is about configuring the Linux-Server.
 
 ### Server Details
 
-Server IP Address 13.126.183.95
+Server IP Address 13.126.138.228
 
-Hosted site Url [http://13.126.183.95.xip.io/](http://13.126.183.95.xip.io/)
+Hosted site Url [http://13.126.138.228.xip.io/](http://13.126.138.228.xip.io/)
 
 ### How to connect as grader:
 
   save private key provided in your local machine and run the following command
   ```
-  ssh -i path/to/privatekey -p 2200 grader@13.126.183.95
+  ssh -i path/to/privatekey -p 2200 grader@13.126.138.228
     
   ```
   
@@ -51,7 +51,7 @@ IEBXxZFmdB28G1HTseLJ58vsb4w2bzul3aNR4m4a77DlVi+pUDr6fAJKc2AQ2UgL
 '''
 passpharse password is empty(you can directly press enter).
 
-If it didn't work try password 'surya'.
+If it didn't work try password 'varma'.
 '''
 ### id_rsa.pub key
 ```
@@ -59,7 +59,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCmL/VXaFF/nTkw5QQBTLLP+b+rOi/XbSUZgwSo20yZ
 ```
 ### grader password
 ```
-surya
+varma
 ```
 ### Configuring Linux Server
 
