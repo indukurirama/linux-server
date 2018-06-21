@@ -51,7 +51,6 @@ IEBXxZFmdB28G1HTseLJ58vsb4w2bzul3aNR4m4a77DlVi+pUDr6fAJKc2AQ2UgL
 '''
 passpharse password is empty(you can directly press enter).
 
-If it didn't work try password 'varma'.
 '''
 ### id_rsa.pub key
 ```
@@ -295,7 +294,3 @@ sudo apt-get upgrade
    
    `sudo service apache2 restart`
    
-## Error by previous reviewer
-It did'nt asked me to enter any passpharse.
-I'm also including my private key in reviewer notes
-![Screenshot (108).png](https://github.com/dasarisurya/Linux-Server-438/blob/master/Screenshot%20(108).png)
