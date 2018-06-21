@@ -267,7 +267,6 @@ sudo apt-get upgrade
    ```
    save and exit
    
-   Deploying flask app with apache2 is referred from [Digital ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
    
    #### Installing require modules
    You can either install all modules on your machine or create a virtual environment for the project and install the modules
@@ -293,4 +292,9 @@ sudo apt-get upgrade
    Restart your apache2 server
    
    `sudo service apache2 restart`
+   
+   ## References taken from:
+   
+   
+   Deploying flask app with apache2 is referred from [(https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)]
    
